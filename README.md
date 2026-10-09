@@ -1,12 +1,12 @@
-** Hi I'm Eldulis 👋**
+# Hi, I'm Eldulis 👋
 
- Electrical and Electronics Engineering | Energy Systems | Electronics | Telecommunications
+### Electrical and Electronics Engineering | Energy Systems | Electronics | Telecommunications
 
 I'm pursuing a BSc in Electrical and Electronics Engineering at Murang'a University of Technology, Kenya.
 
 I'm interested in applying engineering principles and programming to practical problems, particularly in electrical circuits, energy systems, electronics, and telecommunications.
 
-** 🔧 Areas of Interest**
+### 🔧 Areas of Interest
 
 * Electrical circuit analysis
 * Energy systems and renewable energy
@@ -14,12 +14,12 @@ I'm interested in applying engineering principles and programming to practical p
 * Programming for engineering problem-solving
 * Telecommunications and computer networking
 
- **🚀 Engineering Portfolio**
+### 🚀 Engineering Portfolio
 
 I'm developing practical projects and documenting my engineering learning.
 
-**Energy Systems:** Engineering calculations and energy-related projects.
-**Circuit Theory:** Circuit analysis and practical investigations.
+* **Energy Systems:** Engineering calculations and energy-related projects.
+* **Circuit Theory:** Circuit analysis and practical investigations.
 * **Programming:** Software tools for engineering calculations.
 * **Telecommunications:** Networking and communications projects as my skills develop.
 
